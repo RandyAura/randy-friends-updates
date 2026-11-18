@@ -1,0 +1,1 @@
+Harmless synthetic updater hosting QA only. This is NOT the Minecraft pack. It contains no mods/game assets/executable and must not be installed. Test key is unrelated to production; no private key is uploaded or persisted. latest.json is the passing test; tampered-feed.json and bad-hash-feed.json are intentional failure fixtures. No production feed or release is enabled.
